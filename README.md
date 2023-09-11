@@ -14,8 +14,8 @@ This project demonstrates the use of K-Means Clustering in Python for the classi
 ## Usage
 
 1. Clone the repository.
-2. Install the required Python libraries.
-3. Run the provided Jupyter Notebook or Python script.
+2. Install the required Python libraries using `pip install -r requirements.txt`.
+3. Run the provided Jupyter Notebook or Python script to perform heart disease classification.
 
 **Note:** The dataset used in this project is for demonstration purposes only.
 
